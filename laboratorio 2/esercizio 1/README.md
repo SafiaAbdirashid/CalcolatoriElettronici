@@ -1,1 +1,2 @@
-
+- Si scriva un programma che richieda all’utente un intero positivo e quindi dica se il valore introdotto è pari oppure dispari
+- Per la determinazione del pari/dispari si utilizzi un’operazione di AND logico con il valore 1
