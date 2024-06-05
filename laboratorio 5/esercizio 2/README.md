@@ -1,0 +1,3 @@
+- Si scriva un programma che verifichi se la stringa introdotta dall’utente è palindroma.
+- La lettura dell’input avviene un carattere alla volta tramite la system call 12 e termina quando l’utente introduce ‘\n’.
+- Il numero di caratteri introdotto dall’utente non è noto a priori, quindi si utilizzi lo stack per memorizzarli invece di allocare una quantità di memoria costante.
