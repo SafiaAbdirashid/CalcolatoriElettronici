@@ -1,0 +1,6 @@
+- Scrivere un programma che, dati due operandi opa e opb di tipo word in memoria, del valore rispettivo di 2043 e 5, esegua un’operazione tra interi scelta dall’utente e salvi il risultato nella variabile word res
+- A seconda dell’intero digitato dall’utente, il programma deve eseguire:
+  - 0 → res = a+b
+  - 1 → res = a-b
+  - 2 → res = a*b
+  - 3 → res = a/b (divisione intera).
