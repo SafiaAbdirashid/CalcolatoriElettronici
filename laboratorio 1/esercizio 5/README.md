@@ -1,0 +1,4 @@
+- Utilizzando la system call 5, leggere un intero introdotto tramite tastiera e salvarlo in $t1.
+- Leggere un altro intero e salvarlo in $t2.
+- Senza utilizzare altri registri, scambiare il valore di $t1 e $t2.
+- Suggerimento: utilizzare istruzioni di somma e sottrazione.
